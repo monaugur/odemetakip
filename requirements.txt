@@ -1,0 +1,6 @@
+streamlit>=1.27.0
+fpdf2
+supabase
+qrcode[pil]
+pandas
+Pillow
